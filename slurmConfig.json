@@ -1,0 +1,16 @@
+{
+	"__default__" :
+	{
+		"account" : "rc_dmckay1_pi",
+		"time" : "2:00:00",
+		"threads" : "1",
+		"mem" : "8G"
+	},
+
+	"fancAuto" :
+	{
+		"time": "40:00:00",
+		"threads": "8",
+		"mem": "64G"
+	}
+}

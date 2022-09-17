@@ -1,0 +1,5 @@
+htsfFile,baseName,techName,fastqName,readNum
+/pine/scr/a/l/alexisv7/fanc/Fastq/yw-3LW-wing-HiC_merge_R1.fastq,yw-3LW-wing-HiC,yw-3LW-wing-HiC_merge,yw-3LW-wing-HiC_merge_R1,R1
+/pine/scr/a/l/alexisv7/fanc/Fastq/yw-3LW-wing-HiC_merge_R2.fastq,yw-3LW-wing-HiC,yw-3LW-wing-HiC_merge,yw-3LW-wing-HiC_merge_R2,R2
+/pine/scr/a/l/alexisv7/fanc/Fastq/yw-3LW-leg-HiC_merge_R1.fastq,yw-3LW-leg-HiC,yw-3LW-leg-HiC_merge,yw-3LW-leg-HiC_merge_R1,R1
+/pine/scr/a/l/alexisv7/fanc/Fastq/yw-3LW-leg-HiC_merge_R2.fastq,yw-3LW-leg-HiC,yw-3LW-leg-HiC_merge,yw-3LW-leg-HiC_merge_R2,R2
